@@ -1,5 +1,50 @@
 ![screencapture-localhost-8502-2025-06-18-22_29_02](https://github.com/user-attachments/assets/85608a25-d366-49b3-86f6-89377a34a0c6)
 
+English 
+
+# 🕊️ Suara Sunyi
+
+> *"Sometimes I'm silent, but my mind is full of noise."*
+> **SuaraSunyi** is a safe digital space to express your feelings through voice. It uses AI to listen, transcribe, detect emotions, and respond empathetically.
+
+## 🎯 Project Purpose
+
+This project was built to serve as a **private emotional diary** for those who:
+
+* Struggle to talk about their feelings
+* Need a listener that doesn’t judge
+* Want to reflect and feel heard
+
+## Key Features
+
+* 🎙️ Record your voice directly from the browser
+* 📝 Auto-transcription using speech recognition
+* 🎭 Emotion detection (sad, angry, anxious, happy, etc.)
+* 💬 AI-generated affirmations based on your emotion
+* 📥 Download and archive your recordings as personal voice logs
+
+## 🛠️ Tech Stack
+
+| Technology                        | Role                                |
+| --------------------------------- | ----------------------------------- |
+| Python + Streamlit                | Web-based UI                        |
+| `sounddevice`, `scipy`, `librosa` | Audio input & processing            |
+| HuggingFace Transformers          | Emotion detection                   |
+| HTML-in-Streamlit styling         | Calming and focused user experience |
+
+## ❤️ Why This Matters
+
+Everyone has moments where they feel overwhelmed, unheard, or unable to open up. **SuaraSunyi** isn't therapy—but it *is* a gentle companion to start your journey of reflection and self-awareness.
+
+> “By speaking like this, the screaming in my head fades… and peace slowly finds me.”
+
+---
+
+Let me know if you want this saved directly as a `README.md` file, or if you'd like help with [recording a demo video](f), [creating an intro UI screenshot](f), or [explaining how emotion detection works](f).
+
+
+Indonesia
+
 # Suara Sunyi
 
 > *"Kadang, aku diam. Tapi di dalam kepalaku, suara-suara berisik terus berbicara."*
