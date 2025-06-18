@@ -1,14 +1,6 @@
 ![screencapture-localhost-8502-2025-06-18-22_29_02](https://github.com/user-attachments/assets/85608a25-d366-49b3-86f6-89377a34a0c6)
 Terima kasih, Arvin! Setelah membaca kode `app.py` kamu, ini **sangat potensial untuk Apple Developer Academy** karena:
 
-* Ada gabungan AI (analisis emosi), suara, dan user interface.
-* Fungsinya menyentuh aspek kemanusiaan: kesehatan mental.
-* Flow penggunaannya sangat sederhana, cocok untuk presentasi dalam 2–3 menit.
-
-Berikut adalah **template portofolio GitHub** yang bisa langsung kamu salin ke file `README.md` untuk project ini agar terlihat menarik dan kuat saat kamu submit:
-
----
-
 # 🕊️ Suara Sunyi
 
 > *"Kadang, aku diam. Tapi di dalam kepalaku, suara-suara berisik terus berbicara."*
