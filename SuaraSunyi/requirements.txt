@@ -1,0 +1,11 @@
+streamlit
+sounddevice
+scipy
+speechrecognition
+cryptography
+librosa
+numpy
+transformers 
+soundfile 
+torch
+transformers==4.28.1
