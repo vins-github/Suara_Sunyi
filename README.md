@@ -1,7 +1,7 @@
 ![screencapture-localhost-8502-2025-06-18-22_29_02](https://github.com/user-attachments/assets/85608a25-d366-49b3-86f6-89377a34a0c6)
 
-# English 
->
+> English 
+
 # 🕊️ Suara Sunyi
 
 > *"Sometimes I'm silent, but my mind is full of noise."*
@@ -40,8 +40,8 @@ Everyone has moments where they feel overwhelmed, unheard, or unable to open up.
 
 
 
-# Indonesia
---
+> Indonesia
+
 # Suara Sunyi
 
 > *"Kadang, aku diam. Tapi di dalam kepalaku, suara-suara berisik terus berbicara."*
