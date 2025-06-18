@@ -3,6 +3,7 @@
 # Suara Sunyi
 
 > *"Kadang, aku diam. Tapi di dalam kepalaku, suara-suara berisik terus berbicara."*
+
 > SuaraSunyi adalah ruang aman digital untuk menyuarakan isi hati melalui rekaman suara yang dianalisis oleh AI untuk mengenali emosi dan memberi respons empatik.
 
 ## 🎯 Tujuan Proyek
@@ -13,7 +14,7 @@ Proyek ini dibuat sebagai refleksi atas kebutuhan akan media curhat pribadi yang
 * Mengerti emosi manusia
 * Bisa digunakan kapan saja tanpa interaksi sosial
 
-## 🧠 Fitur Utama
+## Fitur Utama
 
 * 🎙️ Rekam suara langsung dari browser
 * 📝 Transkripsi otomatis
