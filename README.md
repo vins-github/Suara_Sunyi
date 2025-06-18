@@ -1,6 +1,6 @@
 ![screencapture-localhost-8502-2025-06-18-22_29_02](https://github.com/user-attachments/assets/85608a25-d366-49b3-86f6-89377a34a0c6)
 
-English 
+# English 
 
 # 🕊️ Suara Sunyi
 
@@ -38,12 +38,9 @@ Everyone has moments where they feel overwhelmed, unheard, or unable to open up.
 
 > “By speaking like this, the screaming in my head fades… and peace slowly finds me.”
 
----
-
-Let me know if you want this saved directly as a `README.md` file, or if you'd like help with [recording a demo video](f), [creating an intro UI screenshot](f), or [explaining how emotion detection works](f).
 
 
-Indonesia
+# Indonesia
 
 # Suara Sunyi
 
