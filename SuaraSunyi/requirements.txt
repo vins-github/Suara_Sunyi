@@ -8,4 +8,5 @@ numpy
 transformers 
 soundfile 
 torch
-transformers==4.28.1
+transformers
+tokenizers==0.13.3
